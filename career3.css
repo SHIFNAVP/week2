@@ -1,0 +1,42 @@
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: aliceblue;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+     color: floralwhite;
+     font-size: 11px;
+
+}
+.login-control{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: aliceblue;
+    font-size: 11px;
+    text-decoration: none;
+    color: slategrey;
+    
+}
+.sub-btn{
+    background-color: darkslateblue;
+    color: azure;
+    height: 20px;
+    border-color:lightslategrey;
+    cursor: pointer;
+
+
+}
+.sub-btn:hover{
+    background-color: blue;
+}
